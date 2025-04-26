@@ -1,4 +1,4 @@
-/* 
+/*
 
     You can write your own styles here...
     
@@ -9,3 +9,11 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter{
+    background-color: aquamarine;
+    border-radius: 10px;
+    font-size: 50px;
+    color: black;
+    margin: 25px;
+    padding: 25px;
+}
